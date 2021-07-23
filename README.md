@@ -5,4 +5,4 @@
 </div>
 <h1 align="center">Explore TailwindCSS with Rocketseat</h1>
 
-This code is produced from "TailwindCSS para designs rápidos" video on **Rocketseat** Experts Club
+<p align="center">This code is produced from "TailwindCSS para designs rápidos" video on <strong>Rocketseat</strong> Experts Club</p>
